@@ -1,0 +1,8 @@
+C:\Users\Anna\AppData\Local\Temporary Projects\TStack\bin\Debug\TStack.exe
+C:\Users\Anna\AppData\Local\Temporary Projects\TStack\bin\Debug\TStack.pdb
+C:\Users\Anna\AppData\Local\Temporary Projects\TStack\obj\x86\Debug\TStack.exe
+C:\Users\Anna\AppData\Local\Temporary Projects\TStack\obj\x86\Debug\TStack.pdb
+D:\Project c#\TStack\TStack\obj\x86\Debug\TStack.exe
+D:\Project c#\TStack\TStack\obj\x86\Debug\TStack.pdb
+D:\Project c#\TStack\TStack\bin\Debug\TStack.exe
+D:\Project c#\TStack\TStack\bin\Debug\TStack.pdb
